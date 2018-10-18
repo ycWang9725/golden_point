@@ -1,4 +1,4 @@
 # golden_point
 This is a project about the golden point game
 
-Description on (bokeyuan)
+https://www.cnblogs.com/wyc9725/p/9811204.html
